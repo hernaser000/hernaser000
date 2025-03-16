@@ -1,4 +1,4 @@
-## Hello World!, I'm Sergio, an aspiring Data Scientist 👋🏼:
+## Hello World!, I'm Sergio, an Aspiring Data Scientist 👋🏼:
 Hi there! 👋 I'm Sergio, an aspiring data and business analyst with a passion for turning information into actionable insights. Growing up in Central Washington taking care of fields for a company that specialized in growing and testing seed varieties, including Triticale and peas, where I was involved in crop sampling and data collection sparked an interest in data. This experience gave me firsthand exposure to the role of data in agriculture—tracking growth patterns, evaluating seed performance, and analyzing yield outcomes to drive research and development. Seeing how data-driven insights shaped decision-making in seed testing and optimization sparked my interest in business analytics and technology.
 #### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergiohv007) 
